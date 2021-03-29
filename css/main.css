@@ -6,17 +6,6 @@ html {
   box-sizing: inherit;
 }
 
-ul li {
-  list-style-type: none;
-}
-
-h1, h2 {
-  font-weight: normal;
-}
-
-.images {
-  max-width: 40%;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 1em;
+img {
+  width: 100%;
 }
